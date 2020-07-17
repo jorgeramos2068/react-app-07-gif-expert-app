@@ -1,3 +1,7 @@
+# React App - Gif Expert
+
+React web application that loads data from Giphy. It implements tests.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
